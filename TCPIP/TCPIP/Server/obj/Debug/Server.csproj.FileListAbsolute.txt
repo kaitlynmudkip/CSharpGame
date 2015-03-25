@@ -1,0 +1,18 @@
+c:\temp2\TCPIP\Server\bin\Debug\Server.exe.config
+c:\temp2\TCPIP\Server\bin\Debug\Server.exe
+c:\temp2\TCPIP\Server\bin\Debug\Server.pdb
+c:\temp2\TCPIP\Server\obj\Debug\Server.ServerForm.resources
+c:\temp2\TCPIP\Server\obj\Debug\Server.Properties.Resources.resources
+c:\temp2\TCPIP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\temp2\TCPIP\Server\obj\Debug\Server.exe
+c:\temp2\TCPIP\Server\obj\Debug\Server.pdb
+c:\temp2\TCPIP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\bin\Debug\Server.pdb
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\bin\Debug\Server.exe.config
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\bin\Debug\Server.exe
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.ServerForm.resources
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.Properties.Resources.resources
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.exe
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.pdb
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

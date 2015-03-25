@@ -1,0 +1,15 @@
+c:\temp2\TCPIP\Client\bin\Debug\Client.exe.config
+c:\temp2\TCPIP\Client\bin\Debug\Client.exe
+c:\temp2\TCPIP\Client\bin\Debug\Client.pdb
+c:\temp2\TCPIP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\temp2\TCPIP\Client\obj\Debug\Client.ClientForm.resources
+c:\temp2\TCPIP\Client\obj\Debug\Client.Properties.Resources.resources
+c:\temp2\TCPIP\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\temp2\TCPIP\Client\obj\Debug\Client.exe
+c:\temp2\TCPIP\Client\obj\Debug\Client.pdb
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\obj\Debug\Client.pdb
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\obj\Debug\Client.ClientForm.resources
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\obj\Debug\Client.Properties.Resources.resources
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\bin\Debug\Client.exe.config
+X:\GAME\Tohme Tony\TCPIP\TCPIP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
